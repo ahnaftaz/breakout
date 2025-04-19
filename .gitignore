@@ -1,0 +1,6 @@
+.env
+blog.md
+log.md
+models/
+wandb/
+images/
