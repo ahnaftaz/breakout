@@ -1,6 +1,8 @@
 # Deep Q-Network (DQN) for Atari Breakout
 
-This project explores the implementation and training of a Deep Q-Network (DQN) agent to play the Atari game Breakout, inspired by DeepMind's work on human-level control through deep reinforcement learning.
+This project explores the implementation and training of a Deep Q-Network (DQN) agent to play the Atari game Breakout, inspired by DeepMind's work on human-level control through deep reinforcement learning. Below is the trained model demonstrating a tunneling strategy. 
+
+![Breakout Tunneling GIF](/misc/tunneling.gif)
 
 ## Overview
 
